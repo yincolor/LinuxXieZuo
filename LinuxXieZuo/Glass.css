@@ -1,0 +1,3 @@
+QWidget{background-color:rgb(10,150,60)}QTextEdit,QListWidget{color:rgb(100,0,80);background-color:rgb(10,255,100);}QLabel,QSpinBox,QPushButton{color:rgb(20,20,40);background-color:rgb(200,200,200)}
+QMenuBar{background-color:rgb(10,150,60)}
+QMenu{background-color:rgb(10,150,60)}

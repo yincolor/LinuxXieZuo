@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LinuxXieZuo.ico</file>
+        <file>Cheese.css</file>
+        <file>DeepDarkFantasy.css</file>
+        <file>Glass.css</file>
+        <file>Nomal.css</file>
+        <file>Pink.css</file>
+        <file>Style.xml</file>
+        <file>BackGround/parchment.png</file>
+        <file>Parchment.css</file>
+    </qresource>
+</RCC>
